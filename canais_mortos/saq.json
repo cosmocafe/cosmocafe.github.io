@@ -1,0 +1,129 @@
+{
+  "guild": {
+    "id": "1303533306372952084",
+    "name": "★ Café Cósmico",
+    "iconUrl": "https://cdn.discordapp.com/icons/1303533306372952084/a_9aba12c17afe394ed0683c5c621e505f.gif?size=512"
+  },
+  "channel": {
+    "id": "1364649402765017159",
+    "type": "GuildTextChat",
+    "categoryId": "1364704208292413531",
+    "category": "\uD83D\uDCD6・Arquivados",
+    "name": "\uD83D\uDEA8・saq",
+    "topic": "Vão se foder quonsumidores!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-07T00:42:14.0427213-03:00",
+  "messages": [
+    {
+      "id": "1364703733325234248",
+      "type": "Default",
+      "timestamp": "2025-04-23T17:45:24.994-03:00",
+      "timestampEdited": "2025-04-23T17:45:40.363-03:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "vai se foder quonsumidores \uD83D\uDD95",
+      "author": {
+        "id": "1132836032186949743",
+        "name": "d.z.miss.lizzy",
+        "discriminator": "0000",
+        "nickname": "shitiz dogra do pix",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1362184298291134486",
+            "name": "#f1c40f",
+            "color": "#F1C40F",
+            "position": 44
+          },
+          {
+            "id": "1362192648026198199",
+            "name": "cachorra burra",
+            "color": null,
+            "position": 24
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362195607770628186",
+            "name": "Overwatch",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1364748731676753943",
+            "name": "Club Penguin: Multiverso da Loucura",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          },
+          {
+            "id": "1388155741730242661",
+            "name": "Administradora de Têxteis Suspensos",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1132836032186949743/6d6a7f031c90ac64dc92ba4c95d5e264.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDD95",
+          "code": "middle_finger",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f595.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 1
+}

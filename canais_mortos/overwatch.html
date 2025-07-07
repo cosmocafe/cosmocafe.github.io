@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/98.css" />
+    <title>Arquivo do Chat</title>
+</head>
+<body>
+    <aside>
+        <ul class="tree-view">
+            <li><a href="index.html">#ínicio</a></li>
+            <li>
+                <a>🎉・festas</a>
+                <ul>
+                    <li><a href="../festas/sandra.html">#🐰・aniversário-da-sandra</a></li>
+                    <li><a href="../festas/ovo.html">#🥚・dia-do-ovo</a></li>
+                    <li><a href="../festas/sarah.html">#🎂・pabens_sarah_padaria</a></li>
+                    <li><a href="../festas/astery.html">#🎂・astery</a></li>
+                    
+                </ul>
+                <li>
+                    <a>💀・canais_mortos</a>
+                    <ul>
+                        <li><a href="saq.html">🚨・saq</a></li>
+                        <li><a href="overwatch.html">🕜・overwatch</a></li>
+                        <li><a href="club_penguin.html">🐧・club-penguin</a></li>
+                        <li><a href="pokemon.html">⚾・pokemon</a></li>
+                </ul>
+            </li>
+        </ul>
+    </aside>
+    <main id="chat-container">
+        </main>
+</body>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+    :root {
+        --font-size: 14px;
+        --inactive-border: #d2d2d200;
+        --background: #c0c0c000;
+    }
+
+    body {
+        margin: 0;
+        background-image: url(background.gif);
+        background-repeat: repeat;
+        color: #ffffff;
+        font-size: var(--font-size);
+        font-family: "Space Mono", monospace;
+        font-weight:400;
+        font-style:normal;
+    }
+
+    aside {
+        width: 200px;
+        position: fixed;
+        top: 0; bottom: 0;
+        padding: 5px;
+        display: flex;
+        align-items: stretch;
+    }
+
+    main {
+        position: absolute;
+        left: 210px;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        overflow-y: scroll;
+        padding: 10px;
+        background-color: var(--background);
+        border-left: 2px solid var(--inactive-border);
+    }
+
+    #chat-header {
+        margin-bottom: 15px;
+    }
+    
+    #chat-header h4 {
+        margin: 0;
+        padding: 5px;
+    }
+
+    .message-group {
+        display: flex;
+        margin-bottom: 1.2rem;
+    }
+
+    .message-group .avatar {
+        width: 40px;
+        height: 40px;
+        margin-right: 12px;
+        flex-shrink: 0;
+    }
+
+    .message-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .author-info {
+        display: flex;
+        align-items: baseline;
+        margin-bottom: 4px;
+    }
+
+    .author-info .author-nickname {
+        font-weight: bold;
+        font-size: 1.1em;
+        margin-right: 8px;
+    }
+
+    .author-info .timestamp {
+        color: #555;
+        font-size: 0.8em;
+    }
+    
+    .reply-info {
+        display: flex;
+        align-items: center;
+        font-size: 0.9em;
+        color: #c9c9c9;
+        background-color: #00000000;
+        border: 1px solid #516bff;
+        padding: 4px 8px;
+        margin-bottom: 5px;
+    }
+    .reply-info .author {
+        font-weight: bold;
+        margin: 0 4px;
+    }
+    .reply-info .content {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 300px;
+    }
+
+    .message-text {
+        line-height: 1.4;
+    }
+    
+    .message-text .emoji {
+        width: 1.5em;
+        height: 1.5em;
+        vertical-align: bottom;
+    }
+
+    .attachments, .embeds {
+        margin-top: 8px;
+    }
+
+    .attachments img, .attachments video,
+    .embeds img, .embeds video {
+        max-width: 400px;
+        max-height: 300px;
+        border: 1px solid #516bff;
+        margin-top: 5px;
+    }
+
+    .reactions {
+        margin-top: 8px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+
+    .reaction {
+        display: flex;
+        align-items: center;
+        background-color: #00000000;
+        border: 1px solid #ffffff;
+        padding: 2px 6px;
+        font-size: 0.9em;
+    }
+
+    .reaction .emoji {
+        width: 16px;
+        height: 16px;
+        margin-right: 4px;
+    }
+    
+</style>
+
+<script>
+    async function loadChat() {
+        const chatContainer = document.getElementById('chat-container');
+
+        try {
+            const response = await fetch('overwatch.json');
+            const data = await response.json();
+
+            // Criar um mapa de mensagens por ID para fácil acesso às respostas
+            const messagesById = new Map(data.messages.map(msg => [msg.id, msg]));
+
+            // Adicionar cabeçalho do canal
+            const chatHeader = document.createElement('div');
+            chatHeader.id = 'chat-header';
+            chatHeader.innerHTML = `<h4>#${data.channel.name}</h4>`;
+            chatContainer.appendChild(chatHeader);
+
+            // Renderizar mensagens
+            data.messages.forEach(msg => {
+                const messageGroup = document.createElement('div');
+                messageGroup.classList.add('message-group');
+
+                // --- Avatar ---
+                const avatar = document.createElement('img');
+                avatar.src = msg.author.avatarUrl;
+                avatar.classList.add('avatar');
+                
+                // --- Conteúdo da Mensagem ---
+                const messageContentDiv = document.createElement('div');
+                messageContentDiv.classList.add('message-content');
+                
+                // --- Informações do Autor (Nome, Horário) ---
+                const authorInfo = document.createElement('div');
+                authorInfo.classList.add('author-info');
+                
+                const authorNickname = document.createElement('span');
+                authorNickname.classList.add('author-nickname');
+                authorNickname.textContent = msg.author.nickname;
+                if (msg.author.color) {
+                    authorNickname.style.color = msg.author.color;
+                }
+
+                const timestamp = document.createElement('span');
+                timestamp.classList.add('timestamp');
+                timestamp.textContent = new Date(msg.timestamp).toLocaleString();
+                
+                authorInfo.appendChild(authorNickname);
+                authorInfo.appendChild(timestamp);
+                messageContentDiv.appendChild(authorInfo);
+
+                // --- Mensagem de Resposta ---
+                if (msg.type === 'Reply' && msg.reference?.messageId) {
+                    const originalMsg = messagesById.get(msg.reference.messageId);
+                    if (originalMsg) {
+                        const replyInfo = document.createElement('div');
+                        replyInfo.classList.add('reply-info');
+                        
+                        const originalAuthorSpan = document.createElement('span');
+                        originalAuthorSpan.classList.add('author');
+                        originalAuthorSpan.style.color = originalMsg.author.color || 'black';
+                        originalAuthorSpan.textContent = `@${originalMsg.author.nickname}`;
+
+                        const originalContentSpan = document.createElement('span');
+                        originalContentSpan.classList.add('content');
+                        originalContentSpan.textContent = originalMsg.content;
+                        
+                        replyInfo.innerHTML = `↪ Respondendo a `;
+                        replyInfo.appendChild(originalAuthorSpan);
+                        replyInfo.appendChild(originalContentSpan);
+
+                        messageContentDiv.appendChild(replyInfo);
+                    }
+                }
+
+                // --- Texto da Mensagem (com emojis) ---
+                let contentHTML = msg.content;
+                // Substituir emojis personalizados
+                msg.inlineEmojis.forEach(emoji => {
+                    const emojiTag = `<img src="${emoji.imageUrl}" alt="${emoji.name}" class="emoji" title=":${emoji.name}:">`;
+                    // Escapar caracteres especiais no nome do emoji para o regex
+                    const emojiCode = emoji.code.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+                    contentHTML = contentHTML.replace(new RegExp(`:${emojiCode}:`, 'g'), emojiTag);
+                });
+                // Substituir menções
+                msg.mentions.forEach(mention => {
+                    const mentionTag = `<span class="mention" style="color: ${mention.color || '#0078D7'}; font-weight: bold;">@${mention.nickname}</span>`;
+                    contentHTML = contentHTML.replace(new RegExp(`@${mention.nickname}`, 'g'), mentionTag);
+                });
+                
+                const messageText = document.createElement('div');
+                messageText.classList.add('message-text');
+                messageText.innerHTML = contentHTML;
+                messageContentDiv.appendChild(messageText);
+
+                // --- Anexos (Imagens, Vídeos) ---
+                if (msg.attachments.length > 0) {
+                    const attachmentsDiv = document.createElement('div');
+                    attachmentsDiv.classList.add('attachments');
+                    msg.attachments.forEach(att => {
+                        if (att.fileName.match(/\.(jpeg|jpg|gif|png|webp)$/i)) {
+                            attachmentsDiv.innerHTML += `<a href="${att.url}" target="_blank"><img src="${att.url}" alt="${att.fileName}"></a>`;
+                        } else if (att.fileName.match(/\.(mp4|webm|mov)$/i)) {
+                            attachmentsDiv.innerHTML += `<video src="${att.url}" controls></video>`;
+                        }
+                    });
+                    messageContentDiv.appendChild(attachmentsDiv);
+                }
+
+                // --- Embeds (Gifs do Tenor, etc) ---
+                if (msg.embeds.length > 0) {
+                    const embedsDiv = document.createElement('div');
+                    embedsDiv.classList.add('embeds');
+                    msg.embeds.forEach(embed => {
+                        if (embed.video?.url) {
+                            embedsDiv.innerHTML += `<video src="${embed.video.url}" controls loop autoplay muted></video>`;
+                        } else if (embed.image?.url) {
+                             embedsDiv.innerHTML += `<a href="${embed.url}" target="_blank"><img src="${embed.image.url}" alt="Embed Image"></a>`;
+                        } else if(embed.thumbnail?.url) {
+                            embedsDiv.innerHTML += `<a href="${embed.url}" target="_blank"><img src="${embed.thumbnail.url}" alt="Embed Thumbnail"></a>`;
+                        }
+                    });
+                     messageContentDiv.appendChild(embedsDiv);
+                }
+                 // --- Stickers ---
+                if (msg.stickers.length > 0) {
+                    msg.stickers.forEach(sticker => {
+                         const stickerImg = `<img src="${sticker.sourceUrl}" alt="${sticker.name}" style="width: 120px; height: 120px;">`;
+                         messageText.innerHTML += stickerImg;
+                    });
+                }
+
+
+                // --- Reações ---
+                if (msg.reactions.length > 0) {
+                    const reactionsDiv = document.createElement('div');
+                    reactionsDiv.classList.add('reactions');
+                    msg.reactions.forEach(reaction => {
+                        reactionsDiv.innerHTML += `
+                            <div class="reaction">
+                                <img src="${reaction.emoji.imageUrl}" alt="${reaction.emoji.name}" class="emoji">
+                                <span>${reaction.count}</span>
+                            </div>
+                        `;
+                    });
+                    messageContentDiv.appendChild(reactionsDiv);
+                }
+                
+                // Monta o grupo da mensagem
+                messageGroup.appendChild(avatar);
+                messageGroup.appendChild(messageContentDiv);
+                chatContainer.appendChild(messageGroup);
+            });
+
+        } catch (error) {
+            console.error('Erro ao carregar ou processar o arquivo JSON:', error);
+            chatContainer.innerHTML = '<h4>Erro ao carregar o chat. Verifique o console para mais detalhes.</h4>';
+        }
+    }
+
+    // Chama a função para carregar o chat quando a página estiver pronta
+    window.addEventListener('DOMContentLoaded', loadChat);
+</script>
+
+</html>
