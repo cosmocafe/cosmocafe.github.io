@@ -1,0 +1,3747 @@
+{
+  "guild": {
+    "id": "1303533306372952084",
+    "name": "★ Café Cósmico",
+    "iconUrl": "https://cdn.discordapp.com/icons/1303533306372952084/a_9aba12c17afe394ed0683c5c621e505f.gif?size=512"
+  },
+  "channel": {
+    "id": "1378570508030709841",
+    "type": "GuildTextChat",
+    "categoryId": "1364704208292413531",
+    "category": "\uD83D\uDCD6・Arquivados",
+    "name": "\uD83C\uDF82・astery",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-07-07T00:33:11.7353902-03:00",
+  "messages": [
+    {
+      "id": "1378570897895718955",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:08:34.667-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Pessoas hoje é o aniversario da nossa querida amiga @\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆ não esqueçam de dar os parabéns!!",
+      "author": {
+        "id": "362262399882887168",
+        "name": "meusegredos",
+        "discriminator": "0000",
+        "nickname": "Debora Florence",
+        "color": "#0122D1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1375957345623998534",
+            "name": "#0122D1",
+            "color": "#0122D1",
+            "position": 31
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/362262399882887168/cc45bc8086610585ecab48c94f67e35b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF70",
+            "code": "cake",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f370.svg"
+          },
+          "count": 9,
+          "users": [
+            {
+              "id": "274350237538320384",
+              "name": "gearchewer",
+              "discriminator": "0000",
+              "nickname": "nico",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/274350237538320384/075d26b89b96621919f972336524f3d9.png?size=512"
+            },
+            {
+              "id": "361377036557746186",
+              "name": "colosso_",
+              "discriminator": "0000",
+              "nickname": "Colosso",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/361377036557746186/2b23fa7cc100e1d98cde871055e9c0e7.png?size=512"
+            },
+            {
+              "id": "481567581149331458",
+              "name": "rhuao_",
+              "discriminator": "0000",
+              "nickname": "Rhuão_",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/481567581149331458/42ff395c7efed8dd6db666d0f3942855.png?size=512"
+            },
+            {
+              "id": "683205215561973779",
+              "name": "zyxyro",
+              "discriminator": "0000",
+              "nickname": "Zyxyro",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+            },
+            {
+              "id": "709048346706444320",
+              "name": "guaranatsy",
+              "discriminator": "0000",
+              "nickname": "nanana",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/709048346706444320/89ba1fb368caa177b47d0c206a52413c.png?size=512"
+            },
+            {
+              "id": "757254343853342783",
+              "name": "cu_bosta_mijo",
+              "discriminator": "0000",
+              "nickname": "Dummy Girl",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/757254343853342783/5284e37d51115052439a6e9ae718d86f.png?size=512"
+            },
+            {
+              "id": "1074503338000928778",
+              "name": "bell_da_mirabel",
+              "discriminator": "0000",
+              "nickname": "Mirabel",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1074503338000928778/b51e62a58f051d7c76d49c8d4f294b13.png?size=512"
+            },
+            {
+              "id": "1132836032186949743",
+              "name": "d.z.miss.lizzy",
+              "discriminator": "0000",
+              "nickname": "shitiz dogra do pix",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1132836032186949743/6d6a7f031c90ac64dc92ba4c95d5e264.png?size=512"
+            },
+            {
+              "id": "1210021333954596865",
+              "name": "iam_flokiss",
+              "discriminator": "0000",
+              "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+              "color": "#0E0E0E",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDE91",
+            "code": "chair",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1fa91.svg"
+          },
+          "count": 7,
+          "users": [
+            {
+              "id": "274350237538320384",
+              "name": "gearchewer",
+              "discriminator": "0000",
+              "nickname": "nico",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/274350237538320384/075d26b89b96621919f972336524f3d9.png?size=512"
+            },
+            {
+              "id": "481567581149331458",
+              "name": "rhuao_",
+              "discriminator": "0000",
+              "nickname": "Rhuão_",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/481567581149331458/42ff395c7efed8dd6db666d0f3942855.png?size=512"
+            },
+            {
+              "id": "683205215561973779",
+              "name": "zyxyro",
+              "discriminator": "0000",
+              "nickname": "Zyxyro",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+            },
+            {
+              "id": "709048346706444320",
+              "name": "guaranatsy",
+              "discriminator": "0000",
+              "nickname": "nanana",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/709048346706444320/89ba1fb368caa177b47d0c206a52413c.png?size=512"
+            },
+            {
+              "id": "757254343853342783",
+              "name": "cu_bosta_mijo",
+              "discriminator": "0000",
+              "nickname": "Dummy Girl",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/757254343853342783/5284e37d51115052439a6e9ae718d86f.png?size=512"
+            },
+            {
+              "id": "1132836032186949743",
+              "name": "d.z.miss.lizzy",
+              "discriminator": "0000",
+              "nickname": "shitiz dogra do pix",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1132836032186949743/6d6a7f031c90ac64dc92ba4c95d5e264.png?size=512"
+            },
+            {
+              "id": "1210021333954596865",
+              "name": "iam_flokiss",
+              "discriminator": "0000",
+              "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+              "color": "#0E0E0E",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "code": "clap",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44f.svg"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "481567581149331458",
+              "name": "rhuao_",
+              "discriminator": "0000",
+              "nickname": "Rhuão_",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/481567581149331458/42ff395c7efed8dd6db666d0f3942855.png?size=512"
+            },
+            {
+              "id": "683205215561973779",
+              "name": "zyxyro",
+              "discriminator": "0000",
+              "nickname": "Zyxyro",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+            },
+            {
+              "id": "757254343853342783",
+              "name": "cu_bosta_mijo",
+              "discriminator": "0000",
+              "nickname": "Dummy Girl",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/757254343853342783/5284e37d51115052439a6e9ae718d86f.png?size=512"
+            },
+            {
+              "id": "1132836032186949743",
+              "name": "d.z.miss.lizzy",
+              "discriminator": "0000",
+              "nickname": "shitiz dogra do pix",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1132836032186949743/6d6a7f031c90ac64dc92ba4c95d5e264.png?size=512"
+            },
+            {
+              "id": "1210021333954596865",
+              "name": "iam_flokiss",
+              "discriminator": "0000",
+              "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+              "color": "#0E0E0E",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 5,
+          "users": [
+            {
+              "id": "481567581149331458",
+              "name": "rhuao_",
+              "discriminator": "0000",
+              "nickname": "Rhuão_",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/481567581149331458/42ff395c7efed8dd6db666d0f3942855.png?size=512"
+            },
+            {
+              "id": "683205215561973779",
+              "name": "zyxyro",
+              "discriminator": "0000",
+              "nickname": "Zyxyro",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+            },
+            {
+              "id": "757254343853342783",
+              "name": "cu_bosta_mijo",
+              "discriminator": "0000",
+              "nickname": "Dummy Girl",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/757254343853342783/5284e37d51115052439a6e9ae718d86f.png?size=512"
+            },
+            {
+              "id": "1132836032186949743",
+              "name": "d.z.miss.lizzy",
+              "discriminator": "0000",
+              "nickname": "shitiz dogra do pix",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1132836032186949743/6d6a7f031c90ac64dc92ba4c95d5e264.png?size=512"
+            },
+            {
+              "id": "1210021333954596865",
+              "name": "iam_flokiss",
+              "discriminator": "0000",
+              "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+              "color": "#0E0E0E",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1210021333954596865",
+          "name": "iam_flokiss",
+          "discriminator": "0000",
+          "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+          "color": "#0E0E0E",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1362184330264444939",
+              "name": "#0e0e0e",
+              "color": "#0E0E0E",
+              "position": 48
+            },
+            {
+              "id": "1362163310073610588",
+              "name": "The Cake is a Lie",
+              "color": null,
+              "position": 21
+            },
+            {
+              "id": "1362166555714125874",
+              "name": "Ela/dela",
+              "color": null,
+              "position": 17
+            },
+            {
+              "id": "1362166755983626422",
+              "name": "Elu/Delu",
+              "color": null,
+              "position": 15
+            },
+            {
+              "id": "1385643842317058108",
+              "name": "Blank Space",
+              "color": "#FFFFFF",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571061360070826",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:09:13.64-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "o aniversário dela inicia o mês do orgulho",
+      "author": {
+        "id": "274350237538320384",
+        "name": "gearchewer",
+        "discriminator": "0000",
+        "nickname": "nico trem",
+        "color": "#A70000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1375955335445086310",
+            "name": "#A70000",
+            "color": "#A70000",
+            "position": 39
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1362195607770628186",
+            "name": "Overwatch",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/274350237538320384/075d26b89b96621919f972336524f3d9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571090921656321",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:09:20.688-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "absurdo tá",
+      "author": {
+        "id": "274350237538320384",
+        "name": "gearchewer",
+        "discriminator": "0000",
+        "nickname": "nico trem",
+        "color": "#A70000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1375955335445086310",
+            "name": "#A70000",
+            "color": "#A70000",
+            "position": 39
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1362195607770628186",
+            "name": "Overwatch",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/274350237538320384/075d26b89b96621919f972336524f3d9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571176963735665",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:09:41.202-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fe,iz abuvrsearui",
+      "author": {
+        "id": "474702026522099728",
+        "name": "x_xsadwyldersadx_x",
+        "discriminator": "0000",
+        "nickname": "levinho",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1362184290493927605",
+            "name": "#e91e63",
+            "color": "#E91E63",
+            "position": 42
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474702026522099728/fa6b30c45043fcacbf3bf69f25a072b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571214368411678",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:09:50.12-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feliz aniverssauro Astery from the criticalmente aclamado anime Astery Adventures",
+      "author": {
+        "id": "1132836032186949743",
+        "name": "d.z.miss.lizzy",
+        "discriminator": "0000",
+        "nickname": "shitiz dogra do pix",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1362184298291134486",
+            "name": "#f1c40f",
+            "color": "#F1C40F",
+            "position": 44
+          },
+          {
+            "id": "1362192648026198199",
+            "name": "cachorra burra",
+            "color": null,
+            "position": 24
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362195607770628186",
+            "name": "Overwatch",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1364748731676753943",
+            "name": "Club Penguin: Multiverso da Loucura",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          },
+          {
+            "id": "1388155741730242661",
+            "name": "Administradora de Têxteis Suspensos",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1132836032186949743/6d6a7f031c90ac64dc92ba4c95d5e264.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571226590478436",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:09:53.034-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":Pog:",
+      "author": {
+        "id": "1132836032186949743",
+        "name": "d.z.miss.lizzy",
+        "discriminator": "0000",
+        "nickname": "shitiz dogra do pix",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1362184298291134486",
+            "name": "#f1c40f",
+            "color": "#F1C40F",
+            "position": 44
+          },
+          {
+            "id": "1362192648026198199",
+            "name": "cachorra burra",
+            "color": null,
+            "position": 24
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362195607770628186",
+            "name": "Overwatch",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1364748731676753943",
+            "name": "Club Penguin: Multiverso da Loucura",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          },
+          {
+            "id": "1388155741730242661",
+            "name": "Administradora de Têxteis Suspensos",
+            "color": null,
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1132836032186949743/6d6a7f031c90ac64dc92ba4c95d5e264.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1303543819869880320",
+          "name": "Pog",
+          "code": "Pog",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1303543819869880320.png"
+        }
+      ]
+    },
+    {
+      "id": "1378571229442736169",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:09:53.714-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "feliz anisario",
+      "author": {
+        "id": "905804950544719872",
+        "name": "1sabell",
+        "discriminator": "0000",
+        "nickname": "1sabell",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184290493927605",
+            "name": "#e91e63",
+            "color": "#E91E63",
+            "position": 42
+          },
+          {
+            "id": "1375955648260603975",
+            "name": "#A45303",
+            "color": "#A45303",
+            "position": 38
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/905804950544719872/ae73a90a796993b5d2c1dc2b32a00152.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571244311674981",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:09:57.259-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/duplicity-loop-locking-in-seraph-kurt-wylde-acceleracers-gif-17224956448148948134",
+      "author": {
+        "id": "474702026522099728",
+        "name": "x_xsadwyldersadx_x",
+        "discriminator": "0000",
+        "nickname": "levinho",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1362184290493927605",
+            "name": "#e91e63",
+            "color": "#E91E63",
+            "position": 42
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474702026522099728/fa6b30c45043fcacbf3bf69f25a072b7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/duplicity-loop-locking-in-seraph-kurt-wylde-acceleracers-gif-17224956448148948134",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/l6HacJKftUwpxYxCJ9XqwEOhsRMFQKBPp4-f0DfLAhA/https/media.tenor.com/7wtWoLt-BKYAAAAe/duplicity-loop-locking-in.png",
+            "width": 363,
+            "height": 480
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/0oMsb5z0PEObMZ4lweXurH8H-owH6BfGv0DhFUfYTw8/https/media.tenor.com/7wtWoLt-BKYAAAPo/duplicity-loop-locking-in.mp4",
+            "width": 364,
+            "height": 480
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571375769555037",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:10:28.601-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "feliz niver ast",
+      "author": {
+        "id": "969719760763879514",
+        "name": "puffish",
+        "discriminator": "0000",
+        "nickname": "Pufferfish",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184306893652201",
+            "name": "#e67e22",
+            "color": "#E67E22",
+            "position": 40
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1362166783640998080",
+            "name": "Qualquer pronome",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/969719760763879514/06a16d3c31a2110f07056f81f97beb2f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571404131434668",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:10:35.363-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆ fel",
+      "author": {
+        "id": "307335427331850242",
+        "name": "mparagames",
+        "discriminator": "0000",
+        "nickname": "MParaGames",
+        "color": "#0E0E0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/307335427331850242/c7bf3e7494b9b56e7403ade77a88c065.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1210021333954596865",
+          "name": "iam_flokiss",
+          "discriminator": "0000",
+          "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+          "color": "#0E0E0E",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1362184330264444939",
+              "name": "#0e0e0e",
+              "color": "#0E0E0E",
+              "position": 48
+            },
+            {
+              "id": "1362163310073610588",
+              "name": "The Cake is a Lie",
+              "color": null,
+              "position": 21
+            },
+            {
+              "id": "1362166555714125874",
+              "name": "Ela/dela",
+              "color": null,
+              "position": 17
+            },
+            {
+              "id": "1362166755983626422",
+              "name": "Elu/Delu",
+              "color": null,
+              "position": 15
+            },
+            {
+              "id": "1385643842317058108",
+              "name": "Blank Space",
+              "color": "#FFFFFF",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571413262303354",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:10:37.54-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "iz",
+      "author": {
+        "id": "307335427331850242",
+        "name": "mparagames",
+        "discriminator": "0000",
+        "nickname": "MParaGames",
+        "color": "#0E0E0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/307335427331850242/c7bf3e7494b9b56e7403ade77a88c065.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571416772939857",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:10:38.377-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://media.discordapp.net/attachments/937435293294919694/1062881873837178981/image0-68-1-1.gif",
+      "author": {
+        "id": "969719760763879514",
+        "name": "puffish",
+        "discriminator": "0000",
+        "nickname": "Pufferfish",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184306893652201",
+            "name": "#e67e22",
+            "color": "#E67E22",
+            "position": 40
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1362166783640998080",
+            "name": "Qualquer pronome",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/969719760763879514/06a16d3c31a2110f07056f81f97beb2f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://media.discordapp.net/attachments/937435293294919694/1062881873837178981/image0-68-1-1.gif",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/937435293294919694/1062881873837178981/image0-68-1-1.gif?ex=686c5de2&is=686b0c62&hm=bbccbd651e73bdc3a356895d2f4ab4a3ba9b199dee1072109f851e96b68b835e&",
+            "width": 28,
+            "height": 27
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571431335559168",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:10:41.849-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "até puffei",
+      "author": {
+        "id": "969719760763879514",
+        "name": "puffish",
+        "discriminator": "0000",
+        "nickname": "Pufferfish",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184306893652201",
+            "name": "#e67e22",
+            "color": "#E67E22",
+            "position": 40
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1362166783640998080",
+            "name": "Qualquer pronome",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/969719760763879514/06a16d3c31a2110f07056f81f97beb2f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571664845049936",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:11:37.522-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "feliz aniversáriowowowowowowowo",
+      "author": {
+        "id": "1063518221795328010",
+        "name": "sarahpabdira",
+        "discriminator": "0000",
+        "nickname": "Bilu bilu da Débora",
+        "color": "#6F016F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1375957707546427432",
+            "name": "#6F016F",
+            "color": "#6F016F",
+            "position": 29
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362195607770628186",
+            "name": "Overwatch",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1366158631208353832",
+            "name": "Webfishing",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1063518221795328010/a34ed6343381ab5bbc821a2c5e65e316.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378571889215143966",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:12:31.016-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/parab%C3%A9ns-valtatui-congrats-congratulations-gift-gif-16739360",
+      "author": {
+        "id": "1340451182073610291",
+        "name": "letaeme",
+        "discriminator": "0000",
+        "nickname": "Eme",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1373703060676935760",
+            "name": "Sou sem graça, mando meme de IA.",
+            "color": null,
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1340451182073610291/cf758174465a0b6f34eb13de73b76ffe.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/parab%C3%A9ns-valtatui-congrats-congratulations-gift-gif-16739360",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/4D2ry0wMtfoAW6Oflcc4h6RXol5Sxm0_TvqR8At4h1E/https/media.tenor.com/jocTo3RnAg0AAAAe/parab%25C3%25A9ns-valtatui-congrats.png",
+            "width": 640,
+            "height": 532
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/lbgzf-_LlVCqJzMpLEUi9I2IQpnGnLD4k3do9seXdfc/https/media.tenor.com/jocTo3RnAg0AAAPo/parab%25C3%25A9ns-valtatui-congrats.mp4",
+            "width": 640,
+            "height": 532
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378575318280835154",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:26:08.569-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":vemca:",
+      "author": {
+        "id": "1210021333954596865",
+        "name": "iam_flokiss",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+        "color": "#0E0E0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166755983626422",
+            "name": "Elu/Delu",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1376332076319510640",
+          "name": "vemca",
+          "code": "vemca",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1376332076319510640.png"
+        }
+      ]
+    },
+    {
+      "id": "1378578708100550737",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:39:36.765-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feliz aniversáriooooooooooo:hug:",
+      "author": {
+        "id": "361377036557746186",
+        "name": "colosso_",
+        "discriminator": "0000",
+        "nickname": "Colosso\uD83C\uDF4E",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184290493927605",
+            "name": "#e91e63",
+            "color": "#E91E63",
+            "position": 42
+          },
+          {
+            "id": "1375955335445086310",
+            "name": "#A70000",
+            "color": "#A70000",
+            "position": 39
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1366158631208353832",
+            "name": "Webfishing",
+            "color": null,
+            "position": 8
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/361377036557746186/2b23fa7cc100e1d98cde871055e9c0e7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1303543829395406928",
+          "name": "hug",
+          "code": "hug",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1303543829395406928.png"
+        }
+      ]
+    },
+    {
+      "id": "1378580436510441502",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:46:28.85-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "FELIZ ANIVERSÁRIO ASTERY",
+      "author": {
+        "id": "548253726196891650",
+        "name": ".bloodybunny.",
+        "discriminator": "0000",
+        "nickname": "Santhrua Matthaios",
+        "color": "#A70000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375955335445086310",
+            "name": "#A70000",
+            "color": "#A70000",
+            "position": 39
+          },
+          {
+            "id": "1367187814537629736",
+            "name": "Hahaha caiu no golpe da Steam",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548253726196891650/f75cdeac92e601142cf38c50ca05fbfd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378580447612768378",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:46:31.497-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":joyous:",
+      "author": {
+        "id": "548253726196891650",
+        "name": ".bloodybunny.",
+        "discriminator": "0000",
+        "nickname": "Santhrua Matthaios",
+        "color": "#A70000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375955335445086310",
+            "name": "#A70000",
+            "color": "#A70000",
+            "position": 39
+          },
+          {
+            "id": "1367187814537629736",
+            "name": "Hahaha caiu no golpe da Steam",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548253726196891650/f75cdeac92e601142cf38c50ca05fbfd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1201051848828801085",
+          "name": "joyous",
+          "code": "joyous",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1201051848828801085.png"
+        }
+      ]
+    },
+    {
+      "id": "1378582516944080957",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:54:44.864-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "feliz aniversário ast!!!!!!!!",
+      "author": {
+        "id": "607000057757040645",
+        "name": "https.me.escobar",
+        "discriminator": "0000",
+        "nickname": "Nicky Nanico",
+        "color": "#460A82",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375957525735800895",
+            "name": "#460A82",
+            "color": "#460A82",
+            "position": 30
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166783640998080",
+            "name": "Qualquer pronome",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1366158631208353832",
+            "name": "Webfishing",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607000057757040645/87af2a103813f92520849d147ee4b988.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378582656475729972",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:55:18.131-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "que venha muitos bolos na sua vida, para vc comer",
+      "author": {
+        "id": "607000057757040645",
+        "name": "https.me.escobar",
+        "discriminator": "0000",
+        "nickname": "Nicky Nanico",
+        "color": "#460A82",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375957525735800895",
+            "name": "#460A82",
+            "color": "#460A82",
+            "position": 30
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166783640998080",
+            "name": "Qualquer pronome",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1366158631208353832",
+            "name": "Webfishing",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607000057757040645/87af2a103813f92520849d147ee4b988.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378582922214248478",
+      "type": "Default",
+      "timestamp": "2025-06-01T00:56:21.488-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Parabéns Ast.",
+      "author": {
+        "id": "924135513978454076",
+        "name": "anki.jpeg",
+        "discriminator": "0000",
+        "nickname": "。",
+        "color": "#AD1457",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1369380583314030672",
+            "name": "-- BOTS --",
+            "color": "#AD1457",
+            "position": 60
+          },
+          {
+            "id": "1369382830920040688",
+            "name": "-- ICONES (level 2) --",
+            "color": "#AD1457",
+            "position": 51
+          },
+          {
+            "id": "1369380858179620905",
+            "name": "-- CORES --",
+            "color": "#AD1457",
+            "position": 50
+          },
+          {
+            "id": "1375935385862930584",
+            "name": "#ffffff",
+            "color": "#FFFFFF",
+            "position": 49
+          },
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362184245006569512",
+            "name": "#3498db",
+            "color": "#3498DB",
+            "position": 47
+          },
+          {
+            "id": "1362183015048024094",
+            "name": "#1abc9c",
+            "color": "#1ABC9C",
+            "position": 46
+          },
+          {
+            "id": "1362184165147279763",
+            "name": "#2ecc71",
+            "color": "#2ECC71",
+            "position": 45
+          },
+          {
+            "id": "1362184298291134486",
+            "name": "#f1c40f",
+            "color": "#F1C40F",
+            "position": 44
+          },
+          {
+            "id": "1362184277206372412",
+            "name": "#9b59b6",
+            "color": "#9B59B6",
+            "position": 43
+          },
+          {
+            "id": "1362184290493927605",
+            "name": "#e91e63",
+            "color": "#E91E63",
+            "position": 42
+          },
+          {
+            "id": "1362184319594004690",
+            "name": "#e74c3c",
+            "color": "#E74C3C",
+            "position": 41
+          },
+          {
+            "id": "1362184306893652201",
+            "name": "#e67e22",
+            "color": "#E67E22",
+            "position": 40
+          },
+          {
+            "id": "1375955335445086310",
+            "name": "#A70000",
+            "color": "#A70000",
+            "position": 39
+          },
+          {
+            "id": "1375955648260603975",
+            "name": "#A45303",
+            "color": "#A45303",
+            "position": 38
+          },
+          {
+            "id": "1375955892905967616",
+            "name": "#B3B301",
+            "color": "#B3B301",
+            "position": 37
+          },
+          {
+            "id": "1375956117162561596",
+            "name": "#6C9000",
+            "color": "#6C9000",
+            "position": 36
+          },
+          {
+            "id": "1375956376760881392",
+            "name": "#336601",
+            "color": "#336601",
+            "position": 35
+          },
+          {
+            "id": "1375956645586403451",
+            "name": "#08914D",
+            "color": "#08914D",
+            "position": 34
+          },
+          {
+            "id": "1375956900130193579",
+            "name": "#008D8D",
+            "color": "#008D8D",
+            "position": 33
+          },
+          {
+            "id": "1375957145509691584",
+            "name": "#004183",
+            "color": "#004183",
+            "position": 32
+          },
+          {
+            "id": "1375957345623998534",
+            "name": "#0122D1",
+            "color": "#0122D1",
+            "position": 31
+          },
+          {
+            "id": "1375957525735800895",
+            "name": "#460A82",
+            "color": "#460A82",
+            "position": 30
+          },
+          {
+            "id": "1375957707546427432",
+            "name": "#6F016F",
+            "color": "#6F016F",
+            "position": 29
+          },
+          {
+            "id": "1375957874555093022",
+            "name": "#97004C",
+            "color": "#97004C",
+            "position": 28
+          },
+          {
+            "id": "1369380896364433418",
+            "name": "-- PERSONALIZADO --",
+            "color": "#AD1457",
+            "position": 27
+          },
+          {
+            "id": "1373703060676935760",
+            "name": "Sou sem graça, mando meme de IA.",
+            "color": null,
+            "position": 25
+          },
+          {
+            "id": "1362192648026198199",
+            "name": "cachorra burra",
+            "color": null,
+            "position": 24
+          },
+          {
+            "id": "1367187814537629736",
+            "name": "Hahaha caiu no golpe da Steam",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1369381347612954754",
+            "name": "-- PRONOMES --",
+            "color": "#AD1457",
+            "position": 18
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1362166755983626422",
+            "name": "Elu/Delu",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1362166783640998080",
+            "name": "Qualquer pronome",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1362166844706001118",
+            "name": "Nulo",
+            "color": null,
+            "position": 13
+          },
+          {
+            "id": "1369381490647109672",
+            "name": "-- JOGOS --",
+            "color": "#AD1457",
+            "position": 12
+          },
+          {
+            "id": "1362195607770628186",
+            "name": "Overwatch",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1364748731676753943",
+            "name": "Club Penguin: Multiverso da Loucura",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1366158631208353832",
+            "name": "Webfishing",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/924135513978454076/8d9d071a0d81d7e067af6f07dceabac9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378589233585061980",
+      "type": "Default",
+      "timestamp": "2025-06-01T01:21:26.236-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feliz aniversário \uD83C\uDF82 crl",
+      "author": {
+        "id": "1074503338000928778",
+        "name": "bell_da_mirabel",
+        "discriminator": "0000",
+        "nickname": "Mirabel",
+        "color": "#6F016F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375957707546427432",
+            "name": "#6F016F",
+            "color": "#6F016F",
+            "position": 29
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1074503338000928778/b51e62a58f051d7c76d49c8d4f294b13.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83C\uDF82",
+          "code": "birthday",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f382.svg"
+        }
+      ]
+    },
+    {
+      "id": "1378666811561738291",
+      "type": "Default",
+      "timestamp": "2025-06-01T06:29:42.267-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "feliz dia do bolo ast",
+      "author": {
+        "id": "755787614057005187",
+        "name": "wildframbo",
+        "discriminator": "0000",
+        "nickname": "fram, inspetor dos ao mosso",
+        "color": "#6F016F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375957707546427432",
+            "name": "#6F016F",
+            "color": "#6F016F",
+            "position": 29
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166783640998080",
+            "name": "Qualquer pronome",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755787614057005187/e8eb8570080fa3df12a19ee47dd6c27a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378713716417105961",
+      "type": "Default",
+      "timestamp": "2025-06-01T09:36:05.256-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bom dia",
+      "author": {
+        "id": "1063518221795328010",
+        "name": "sarahpabdira",
+        "discriminator": "0000",
+        "nickname": "Bilu bilu da Débora",
+        "color": "#6F016F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362148726210297966",
+            "name": "Furry",
+            "color": null,
+            "position": 61
+          },
+          {
+            "id": "1375957707546427432",
+            "name": "#6F016F",
+            "color": "#6F016F",
+            "position": 29
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362195607770628186",
+            "name": "Overwatch",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1366158631208353832",
+            "name": "Webfishing",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1063518221795328010/a34ed6343381ab5bbc821a2c5e65e316.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378714340148117584",
+      "type": "Default",
+      "timestamp": "2025-06-01T09:38:33.965-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆ feliz parabens :amortrans:",
+      "author": {
+        "id": "683205215561973779",
+        "name": "zyxyro",
+        "discriminator": "0000",
+        "nickname": "Vivi Sulfato de Estrogeno comer☪",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184277206372412",
+            "name": "#9b59b6",
+            "color": "#9B59B6",
+            "position": 43
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1210021333954596865",
+          "name": "iam_flokiss",
+          "discriminator": "0000",
+          "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+          "color": "#0E0E0E",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1362184330264444939",
+              "name": "#0e0e0e",
+              "color": "#0E0E0E",
+              "position": 48
+            },
+            {
+              "id": "1362163310073610588",
+              "name": "The Cake is a Lie",
+              "color": null,
+              "position": 21
+            },
+            {
+              "id": "1362166555714125874",
+              "name": "Ela/dela",
+              "color": null,
+              "position": 17
+            },
+            {
+              "id": "1362166755983626422",
+              "name": "Elu/Delu",
+              "color": null,
+              "position": 15
+            },
+            {
+              "id": "1385643842317058108",
+              "name": "Blank Space",
+              "color": "#FFFFFF",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+        }
+      ],
+      "inlineEmojis": [
+        {
+          "id": "1372954668740640788",
+          "name": "amortrans",
+          "code": "amortrans",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1372954668740640788.png"
+        }
+      ]
+    },
+    {
+      "id": "1378741226030891088",
+      "type": "Default",
+      "timestamp": "2025-06-01T11:25:24.059-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/dancing-cat-dance-cat-cat-meme-chinese-cat-gif-2550211610272580709",
+      "author": {
+        "id": "600527732362706964",
+        "name": "beivyp",
+        "discriminator": "0000",
+        "nickname": "Arminho =]",
+        "color": "#460A82",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375957525735800895",
+            "name": "#460A82",
+            "color": "#460A82",
+            "position": 30
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166783640998080",
+            "name": "Qualquer pronome",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1362195607770628186",
+            "name": "Overwatch",
+            "color": null,
+            "position": 11
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1366158631208353832",
+            "name": "Webfishing",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/600527732362706964/faa6c0cd19a78d45b49ad34ce2bd38c0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/dancing-cat-dance-cat-cat-meme-chinese-cat-gif-2550211610272580709",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/_55pSlQDV9a57cS6TMXPJunCwuaGaJSdo093SdqgDcY/https/media.tenor.com/I2Qr8qxfxGUAAAAe/dancing-cat-dance.png",
+            "width": 298,
+            "height": 498
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/-5JnEO39aNcxN35UtofFjPo1rp5xQWE0ZFBE9DJ31kU/https/media.tenor.com/I2Qr8qxfxGUAAAPo/dancing-cat-dance.mp4",
+            "width": 298,
+            "height": 498
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378752855653089361",
+      "type": "Default",
+      "timestamp": "2025-06-01T12:11:36.777-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feliz aniversário @\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+      "author": {
+        "id": "327990690699149333",
+        "name": "yumero4",
+        "discriminator": "0000",
+        "nickname": "SEGA",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184245006569512",
+            "name": "#3498db",
+            "color": "#3498DB",
+            "position": 47
+          },
+          {
+            "id": "1363173296585179187",
+            "name": "Mussoumano vs Bento Ribeiro",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          },
+          {
+            "id": "1390053000000831588",
+            "name": "gozofone",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327990690699149333/dd3df071d61f912ec1a342605075216f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1210021333954596865",
+          "name": "iam_flokiss",
+          "discriminator": "0000",
+          "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+          "color": "#0E0E0E",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1362184330264444939",
+              "name": "#0e0e0e",
+              "color": "#0E0E0E",
+              "position": 48
+            },
+            {
+              "id": "1362163310073610588",
+              "name": "The Cake is a Lie",
+              "color": null,
+              "position": 21
+            },
+            {
+              "id": "1362166555714125874",
+              "name": "Ela/dela",
+              "color": null,
+              "position": 17
+            },
+            {
+              "id": "1362166755983626422",
+              "name": "Elu/Delu",
+              "color": null,
+              "position": 15
+            },
+            {
+              "id": "1385643842317058108",
+              "name": "Blank Space",
+              "color": "#FFFFFF",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378753231135572082",
+      "type": "Default",
+      "timestamp": "2025-06-01T12:13:06.299-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/dragon-ball-goku-ok-got-it-thumbs-up-gif-12581524",
+      "author": {
+        "id": "327990690699149333",
+        "name": "yumero4",
+        "discriminator": "0000",
+        "nickname": "SEGA",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184245006569512",
+            "name": "#3498db",
+            "color": "#3498DB",
+            "position": 47
+          },
+          {
+            "id": "1363173296585179187",
+            "name": "Mussoumano vs Bento Ribeiro",
+            "color": null,
+            "position": 26
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          },
+          {
+            "id": "1390053000000831588",
+            "name": "gozofone",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/327990690699149333/dd3df071d61f912ec1a342605075216f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/dragon-ball-goku-ok-got-it-thumbs-up-gif-12581524",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fYPtJTRLweocg_ScOkD_IBDr8sDoD6yjoQs1G6oTVRc/https/media.tenor.com/7m2C1cY7GcEAAAAe/dragon-ball-goku.png",
+            "width": 500,
+            "height": 280
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/6fOn2iC9S2KbohEnfVhHaDmqDWdjXHq8Udo7YOhmviQ/https/media.tenor.com/7m2C1cY7GcEAAAPo/dragon-ball-goku.mp4",
+            "width": 500,
+            "height": 280
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378817013161656481",
+      "type": "Default",
+      "timestamp": "2025-06-01T16:26:33.119-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feliz aniversário",
+      "author": {
+        "id": "625522101474033664",
+        "name": "dersin.",
+        "discriminator": "0000",
+        "nickname": "Alice Dersin",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/625522101474033664/bb2a702e8af5f0388fd99eaaaf501900.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378817030324486145",
+      "type": "Default",
+      "timestamp": "2025-06-01T16:26:37.211-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":Prayge:",
+      "author": {
+        "id": "625522101474033664",
+        "name": "dersin.",
+        "discriminator": "0000",
+        "nickname": "Alice Dersin",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362165824244416783",
+            "name": "Not a movie",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/625522101474033664/bb2a702e8af5f0388fd99eaaaf501900.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1368700689739677716",
+          "name": "Prayge",
+          "code": "Prayge",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1368700689739677716.png"
+        }
+      ]
+    },
+    {
+      "id": "1378893622665281547",
+      "type": "Default",
+      "timestamp": "2025-06-01T21:30:58.248-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feliz dia do bolo!!",
+      "author": {
+        "id": "1292441984715198507",
+        "name": "quar_tzo",
+        "discriminator": "0000",
+        "nickname": "Quartzo",
+        "color": "#B3B301",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1375955892905967616",
+            "name": "#B3B301",
+            "color": "#B3B301",
+            "position": 37
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166721607241848",
+            "name": "Ele/dele",
+            "color": null,
+            "position": 16
+          },
+          {
+            "id": "1366158475096489994",
+            "name": "Stardew Valley",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1292441984715198507/9be67e2e26ee13d20c80d05ce315f4bc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378906027478483086",
+      "type": "Default",
+      "timestamp": "2025-06-01T22:20:15.786-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dia oficial do pastel de frigideira :Prayge:",
+      "author": {
+        "id": "683205215561973779",
+        "name": "zyxyro",
+        "discriminator": "0000",
+        "nickname": "Vivi Sulfato de Estrogeno comer☪",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184277206372412",
+            "name": "#9b59b6",
+            "color": "#9B59B6",
+            "position": 43
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1368700689739677716",
+          "name": "Prayge",
+          "code": "Prayge",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1368700689739677716.png"
+        }
+      ]
+    },
+    {
+      "id": "1378906041781321728",
+      "type": "Default",
+      "timestamp": "2025-06-01T22:20:19.196-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/pastel-gif-8646955",
+      "author": {
+        "id": "683205215561973779",
+        "name": "zyxyro",
+        "discriminator": "0000",
+        "nickname": "Vivi Sulfato de Estrogeno comer☪",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184277206372412",
+            "name": "#9b59b6",
+            "color": "#9B59B6",
+            "position": 43
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "pastel frito",
+          "url": "https://tenor.com/view/pastel-gif-8646955",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hJ3H3WvVNO83-_PLUW2NaY6sKmeC-nMEk10ZhPdjQJI/https/media.tenor.com/NwiaABZuRtcAAAAe/pastel.png",
+            "width": 640,
+            "height": 360
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/JJ_pb_ZIhn1sB5vCSK8lJsgtwZ88MYWfGB6V-UK4K7o/https/media.tenor.com/NwiaABZuRtcAAAPo/pastel.mp4",
+            "width": 640,
+            "height": 360
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378906165701771334",
+      "type": "Default",
+      "timestamp": "2025-06-01T22:20:48.741-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gif da @\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆  fazendo pastel pro Estadão :Prayge:",
+      "author": {
+        "id": "683205215561973779",
+        "name": "zyxyro",
+        "discriminator": "0000",
+        "nickname": "Vivi Sulfato de Estrogeno comer☪",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184277206372412",
+            "name": "#9b59b6",
+            "color": "#9B59B6",
+            "position": 43
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1210021333954596865",
+          "name": "iam_flokiss",
+          "discriminator": "0000",
+          "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+          "color": "#0E0E0E",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1362184330264444939",
+              "name": "#0e0e0e",
+              "color": "#0E0E0E",
+              "position": 48
+            },
+            {
+              "id": "1362163310073610588",
+              "name": "The Cake is a Lie",
+              "color": null,
+              "position": 21
+            },
+            {
+              "id": "1362166555714125874",
+              "name": "Ela/dela",
+              "color": null,
+              "position": 17
+            },
+            {
+              "id": "1362166755983626422",
+              "name": "Elu/Delu",
+              "color": null,
+              "position": 15
+            },
+            {
+              "id": "1385643842317058108",
+              "name": "Blank Space",
+              "color": "#FFFFFF",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+        }
+      ],
+      "inlineEmojis": [
+        {
+          "id": "1368700689739677716",
+          "name": "Prayge",
+          "code": "Prayge",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1368700689739677716.png"
+        }
+      ]
+    },
+    {
+      "id": "1378906223184969790",
+      "type": "Default",
+      "timestamp": "2025-06-01T22:21:02.446-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "um pastel pra dividir com o estado todo",
+      "author": {
+        "id": "683205215561973779",
+        "name": "zyxyro",
+        "discriminator": "0000",
+        "nickname": "Vivi Sulfato de Estrogeno comer☪",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184277206372412",
+            "name": "#9b59b6",
+            "color": "#9B59B6",
+            "position": 43
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378920411227492455",
+      "type": "Default",
+      "timestamp": "2025-06-01T23:17:25.139-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "eu queroooooo",
+      "author": {
+        "id": "1210021333954596865",
+        "name": "iam_flokiss",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+        "color": "#0E0E0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166755983626422",
+            "name": "Elu/Delu",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378920416604852346",
+      "type": "Default",
+      "timestamp": "2025-06-01T23:17:26.421-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AAAAAAAAAA",
+      "author": {
+        "id": "1210021333954596865",
+        "name": "iam_flokiss",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+        "color": "#0E0E0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166755983626422",
+            "name": "Elu/Delu",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378920444156968983",
+      "type": "Default",
+      "timestamp": "2025-06-01T23:17:32.99-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "m,uito obrigada por esse aniversario",
+      "author": {
+        "id": "1210021333954596865",
+        "name": "iam_flokiss",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+        "color": "#0E0E0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166755983626422",
+            "name": "Elu/Delu",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378920455821594704",
+      "type": "Default",
+      "timestamp": "2025-06-01T23:17:35.771-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "foi muito gostoso",
+      "author": {
+        "id": "1210021333954596865",
+        "name": "iam_flokiss",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+        "color": "#0E0E0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166755983626422",
+            "name": "Elu/Delu",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378920473252859914",
+      "type": "Default",
+      "timestamp": "2025-06-01T23:17:39.927-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pena que passou rapido",
+      "author": {
+        "id": "1210021333954596865",
+        "name": "iam_flokiss",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+        "color": "#0E0E0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166755983626422",
+            "name": "Elu/Delu",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378920488713064568",
+      "type": "Default",
+      "timestamp": "2025-06-01T23:17:43.613-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mas me senti muito especial",
+      "author": {
+        "id": "1210021333954596865",
+        "name": "iam_flokiss",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+        "color": "#0E0E0E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184330264444939",
+            "name": "#0e0e0e",
+            "color": "#0E0E0E",
+            "position": 48
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1362166755983626422",
+            "name": "Elu/Delu",
+            "color": null,
+            "position": 15
+          },
+          {
+            "id": "1385643842317058108",
+            "name": "Blank Space",
+            "color": "#FFFFFF",
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378920536431656990",
+      "type": "Default",
+      "timestamp": "2025-06-01T23:17:54.99-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":kcoracao:",
+      "author": {
+        "id": "1378920533696970863",
+        "name": "Ast Ast Ast Ast Asr As \uD83C\uDF51",
+        "discriminator": "0000",
+        "nickname": "Ast Ast Ast Ast Asr As \uD83C\uDF51",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1378920533696970863/a896ba5b90329f50324707084a048d94.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1296899660878839879",
+          "name": "kcoracao",
+          "code": "kcoracao",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1296899660878839879.png"
+        }
+      ]
+    },
+    {
+      "id": "1378924586779021382",
+      "type": "Reply",
+      "timestamp": "2025-06-01T23:34:00.668-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "vc É muito especial, pelo menos, eu te considero uma amiga muito especial pra min",
+      "author": {
+        "id": "683205215561973779",
+        "name": "zyxyro",
+        "discriminator": "0000",
+        "nickname": "Vivi Sulfato de Estrogeno comer☪",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184277206372412",
+            "name": "#9b59b6",
+            "color": "#9B59B6",
+            "position": 43
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1210021333954596865",
+          "name": "iam_flokiss",
+          "discriminator": "0000",
+          "nickname": "\uD835\uDCD0\uD835\uDCFC\uD835\uDCFD\uD835\uDCEE\uD835\uDCFB\uD835\uDD02 \uD835\uDCDD\uD835\uDCEE\uD835\uDCFF\uD835\uDCFE\uD835\uDCFC ₍^. .^₎⟆",
+          "color": "#0E0E0E",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1362184330264444939",
+              "name": "#0e0e0e",
+              "color": "#0E0E0E",
+              "position": 48
+            },
+            {
+              "id": "1362163310073610588",
+              "name": "The Cake is a Lie",
+              "color": null,
+              "position": 21
+            },
+            {
+              "id": "1362166555714125874",
+              "name": "Ela/dela",
+              "color": null,
+              "position": 17
+            },
+            {
+              "id": "1362166755983626422",
+              "name": "Elu/Delu",
+              "color": null,
+              "position": 15
+            },
+            {
+              "id": "1385643842317058108",
+              "name": "Blank Space",
+              "color": "#FFFFFF",
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1210021333954596865/77fdd608da2adaa52adaa456d420a36c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1378920488713064568",
+        "channelId": "1378570508030709841",
+        "guildId": "1303533306372952084"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1378924596064944188",
+      "type": "Default",
+      "timestamp": "2025-06-01T23:34:02.882-03:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":amortrans:",
+      "author": {
+        "id": "683205215561973779",
+        "name": "zyxyro",
+        "discriminator": "0000",
+        "nickname": "Vivi Sulfato de Estrogeno comer☪",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1362184277206372412",
+            "name": "#9b59b6",
+            "color": "#9B59B6",
+            "position": 43
+          },
+          {
+            "id": "1362163259242713339",
+            "name": "QUERO PASTELLL",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1362163310073610588",
+            "name": "The Cake is a Lie",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1362163099515228192",
+            "name": "Burguês",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1362166555714125874",
+            "name": "Ela/dela",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "1367200409185157120",
+            "name": "Pokémon",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1375665705797812308",
+            "name": "te mete!",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/683205215561973779/2fcb01d272a459c1973f2e3cb073c871.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "1372954668740640788",
+          "name": "amortrans",
+          "code": "amortrans",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/1372954668740640788.png"
+        }
+      ]
+    }
+  ],
+  "messageCount": 45
+}
