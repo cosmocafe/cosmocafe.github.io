@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/98.css" />
+    <title>Arquivo do Chat</title>
+</head>
+<body>
+    <aside>
+        <ul class="tree-view">
+            <li><a href="index.html">#ínicio</a></li>
+            <li>
+                <a>🎉・festas</a>
+                <ul>
+                    <li><a href="./festas/sandra.html">#🐰・aniversário-da-sandra</a></li>
+                    <li><a href="./festas/ovo.html">#🥚・dia-do-ovo</a></li>
+                    <li><a href="./festas/sarah.html">#🎂・pabens_sarah_padaria</a></li>
+                    <li><a href="./festas/astery.html">#🎂・astery</a></li>
+                    
+                </ul>
+                <li>
+                    <a>💀・canais_mortos</a>
+                    <ul>
+                        <li><a href="./canais_mortos/saq.html">🚨・saq</a></li>
+                        <li><a href="./canais_mortos/overwatch.html">🕜・overwatch</a></li>
+                        <li><a href="./canais_mortos/club_penguin.html">🐧・club-penguin</a></li>
+                        <li><a href="./canais_mortos/pokemon.html">⚾・pokemon</a></li>
+                </li>    
+                </ul>
+            </li>
+        </ul>
+    </aside>
+    <main>
+        <div class="titulo">
+        </div>
+        <span><------- Heyyyy camarada, olha o painel aqui do ladoooo, talvez o que você procure esteja aqui do lado. (^-^*)/</span><br>
+        <span style="font-size: 12px;"><------- Эйййй, камрааад, глянь на панель сбокуооо, может то, что ты ищешь, прямо здесь рядом. (^-^*)/</span>
+    </main>
+</body>
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+    :root {
+        --font-size: 14px;
+        --inactive-border: #d2d2d200;
+        --background: #c0c0c000;
+    }
+
+    body {
+        margin: 0;
+        background-image: url(background.gif);
+        background-repeat: repeat;
+        color: #ffffff;
+        font-size: var(--font-size);
+        font-family: "Space Mono", monospace;
+        font-weight:400;
+        font-style:normal;
+    }
+
+    .titulo {
+        width: 800px;
+        height: 200px;
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-image: url(logo.webp);
+    }
+
+    aside {
+        width: 200px;
+        position: fixed;
+        top: 0; bottom: 0;
+        padding: 5px;
+        display: flex;
+        align-items: stretch;
+    }
+
+    main {
+        position: absolute;
+        left: 210px;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        overflow-y: scroll;
+        padding: 10px;
+        background-color: var(--background);
+        border-left: 2px solid var(--inactive-border);
+    }
+</style>
+
+</html>
